@@ -1,0 +1,44 @@
+.title
+{
+  text-align: center;
+  color: red;
+  font-size: "large";
+  background: coral;
+}
+
+.subtitle
+{
+  text-align: center;
+  color: orange;
+  font-size: "medium";
+
+}
+
+.header
+{
+  text-align: left;
+  color: red;
+  font-size: "medium";
+
+}
+
+.buttonCenter
+{
+  border: 2px solid black;
+  border-radius:5px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: red;
+}
+.buttoncontainer
+{
+  text-align: center;
+}
+
+#harvard
+{
+  text-align: center;
+}
+
+
